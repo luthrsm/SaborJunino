@@ -74,7 +74,7 @@
             </div>
 
             <div class="galery">
-                <div class="card" onclick="openModal()">
+                <div class="card" onclick="onOpen()">
                     <img class="comida" src="./src/img/Group 6.png" alt="" srcset="">
                     <img src="./src/img/EstrelasBrancas.png" alt="" srcset="" class="estrelas">
                     <p class="tituloReceita">Paçoca</p>
@@ -104,6 +104,21 @@
                     <img src="./src/img/EstrelasBrancas.png" alt="" srcset="" class="estrelas">
                     <p class="tituloReceita" style="margin-left: -20rem;">Quentão</p>
                 </div>
+            </div>
+        </div>
+
+        <!--modal-->
+
+        <div class="container">
+            <div class="modal">
+                <button class="btn-close" onclick="onClose()"> <i class="fa-solid fa-xmark"></i></button>
+                <h1>{nome}</h1>
+                <ul class="ingredientes">
+                    <li>{ingrediente}</li>
+                </ul>
+                <ul class="modoDePreparo">
+                    <li> {passo}</li>
+                </ul>
             </div>
         </div>
 
