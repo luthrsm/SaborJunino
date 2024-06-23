@@ -1,0 +1,123 @@
+<receitas>
+
+    <receita>
+        <nome> Paçoca</nome>
+        <ingredientes>
+            <ingrediente>500 g de amendoim torrado e moído com pele</ingrediente>
+            <ingrediente>1 caixa de leite condensado</ingrediente>
+            <ingrediente>1 pacote de bolacha maisena</ingrediente>
+        </ingredientes>
+        <modoDePreparo>
+            <passo>Torre o amendoim por aproximadamente 20 minutos.</passo>
+            <passo>Bata no liquidificador até que fique todo triturado.</passo>
+            <passo>Coloque em uma vasilha grande para que possa misturar todos os ingredientes bem.</passo>
+            <passo>Bata a bolacha também no liquidificador, misture ao amendoim.</passo>
+            <passo>Coloque o leite condensado aos poucos, mexendo bem, até que fique uma massa bem
+                dura.</passo>
+            <passo>Espalhe em uma forma média untada com margarina, apertando bem com as mãos.</passo>
+            <passo>Deixe descansar por 20 minutos e corte os quadradinhos.</passo>
+        </modoDePreparo>
+    </receita>
+
+    <receita>
+        <nome>Pamonha</nome>
+        <ingredientes> 
+            <ingrediente>12 (doze) espigas de milho verde com a palha</ingrediente>
+            <ingrediente>2 (duas) xícaras de açúcar</ingrediente>
+            <ingrediente>1 (uma) pitada de sal</ingrediente>
+            <ingrediente>1 (um) copo de água</ingrediente>
+            <ingrediente>1 (uma) xícara de coco ralado fino</ingrediente>
+        </ingredientes>
+        <modoDePreparo>
+            <passo>Rale as espigas ou corte-as rente ao sabugo e passe no liquidificador, juntamente com a água.</passo>
+            <passo>Rale as espigas ou corte-as rente ao sabugo e passe no liquidificador, juntamente com a água.</passo>
+            <passo>Coloque a massa na palha de milho e amarre bem.</passo>
+            <passo>Em uma panela grande ferva bem a água, e vá colocando as pamonhas uma a uma após a fervura completa da água. Importante: a água deve estar realmente fervendo para receber as pamonhas, caso contrário elas vão se desfazer. </passo>
+            <passo>Cozinhe por mais ou menos 40 minutos, retirando as pamonhas com o auxílio de uma escumadeira. </passo>
+            <passo>Deixe esfriar em local bem fresco. </passo>
+        </modoDePreparo>
+    </receita>
+
+    <receita>
+        <nome>Cural</nome>
+        <ingredientes> 
+            <ingrediente>2 latas de milho</ingrediente>
+            <ingrediente>2 latas de leite (use como medida a lata de leite condensado)</ingrediente>
+            <ingrediente>1 colher de margarina ou manteiga</ingrediente>
+            <ingrediente>3 colheres de amido de milho</ingrediente>
+            <ingrediente>1 lata de leite condensado</ingrediente>
+            <ingrediente>1/2 xícara de coco ralado</ingrediente>
+            <ingrediente>1 pitada de sal</ingrediente>
+            <ingrediente>canela a gosto</ingrediente>
+        </ingredientes>
+        <modoDePreparo>
+            <passo>Coloque no liquidificador o milho, o leite e o coco ralado e bata por 10 minutos.</passo>
+            <passo>Em um copo separado coloque dois dedos de leite e as três colheres de amido de milho e dissolva bem.</passo>
+            <passo>Coloque em uma panela o leite condensado, a margarina, uma pitada de sal e o líquido do liquidificador, mexa em fogo alto até começar a ficar cremoso (aproximadamente 5 minutos).</passo>
+            <passo>Coloque o leite com amido do copo e continue mexendo até engrossar.</passo>
+            <passo>Coloque em um recipiente e por cima canela a gosto (se não quiser não precisa) e leve à geladeira por aproximadamente 30 minutos.</passo>
+
+        </modoDePreparo>
+    </receita>
+
+    <receita>
+        <nome>Bolo de Milho</nome>
+        <ingredientes> 
+            <ingrediente>1 lata de milho verde</ingrediente>
+            <ingrediente>1 lata de açúcar (medida da lata de milho)</ingrediente>
+            <ingrediente>4 ovos</ingrediente>
+            <ingrediente>2 colheres (sopa) de coco ralado</ingrediente>
+            <ingrediente>1 lata de óleo (medida da lata de milho)</ingrediente>
+            <ingrediente>1 lata de fubá (medida da lata de milho)</ingrediente>
+            <ingrediente>2 colheres (sopa) de farinha de trigo</ingrediente>
+            <ingrediente>1 e 1/2 colher (chá) de fermento em pó</ingrediente>
+
+        </ingredientes>
+        <modoDePreparo>
+            <passo>Em um liquidificador, adicione o milho verde, o óleo, o açúcar, o fubá, os ovos e a farinha de trigo, depois bata até obter uma consistência cremosa.</passo>
+            <passo>Depois, acrescente o coco ralado e o fermento, misture novamente.</passo>
+            <passo>Despeje a massa em uma assadeira untada e leve para assar, em um forno médio a 180 °C, preaquecido por 40 minutos.</passo>
+        </modoDePreparo>
+    </receita>
+
+    <receita>
+        <nome>Pé de Moleque</nome>
+        <ingredientes> 
+            <ingrediente>1/2 kg de amendoim torrado e descascado</ingrediente>
+            <ingrediente>1 lata de leite condensado</ingrediente>
+            <ingrediente>1/2 kg de açúcar</ingrediente>
+            <ingrediente>3 colheres de margarina</ingrediente>
+        </ingredientes>
+        <modoDePreparo>
+            <passo>Colocar na panela o amendoim, o açúcar e a margarina.</passo>
+            <passo>Levar ao fogo, mexendo sempre.</passo>
+            <passo>Quando começar a formar uma calda, coloque o leite condensado.</passo>
+            <passo>Mexa bem, até soltar do fundo da panela, como brigadeiro.</passo>
+            <passo>Coloque no tabuleiro untado com margarina.</passo>
+            <passo>Deixe esfriar e corte em pedaços.</passo>
+        </modoDePreparo>
+    </receita>
+
+    <receita>
+        <nome>Quentão</nome>
+        <ingredientes> 
+            <ingrediente>1 garrafa de cachaça (600 ml)</ingrediente>
+            <ingrediente>500 g de açúcar</ingrediente>
+            <ingrediente>casca de 1 limão</ingrediente>
+            <ingrediente>cravo-da-índia a gosto</ingrediente>
+            <ingrediente>1 maçã cortada em pedacinhos</ingrediente>
+            <ingrediente>600 ml de água</ingrediente>
+            <ingrediente>casca de 2 laranjas</ingrediente>
+            <ingrediente>50 g de gengibre em pedacinhos</ingrediente>
+            <ingrediente>canela em pau a gosto</ingrediente>
+        </ingredientes>
+        <modoDePreparo>
+            <passo>Colocar em uma panela grande o açúcar, as cascas de laranja, as cascas de limão, o gengibre, o cravo e a canela.</passo>
+            <passo>Quando o açúcar estiver derretendo, colocar a cachaça e a água, deixando cozinhar por 20 a 25 minutos em fogo médio.</passo>
+            <passo>Filtre e, após, coloque a maçã picadinha.</passo>
+            <passo>Manter no fogo, após o preparo.</passo>
+        </modoDePreparo>
+    </receita>
+
+
+</receitas>

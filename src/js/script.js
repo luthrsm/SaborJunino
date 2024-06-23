@@ -15,3 +15,5 @@ function backTop() {
 
 //search
 
+const modal = document.querySelector('.container');
+
